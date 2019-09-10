@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Lato', 'Light';
+    font-family: 'Lato', sans-serif;
 }
 p {
     font-size: 1.5em;
