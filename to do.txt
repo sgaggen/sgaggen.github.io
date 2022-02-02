@@ -1,5 +1,5 @@
 - fill out my work
 - fill out my interests
-- add in link to resume
+- swap resume with updated one
 - change the hover on the top header and the sidebar so it highlights just sgaggen
 - center the intro text vertically the proper way (i.e. so that it stays centered dynamically)
