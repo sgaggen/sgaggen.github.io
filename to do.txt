@@ -1,3 +1,4 @@
+- add EIT and PE to intro blob?
 - fill out my work
 - fill out my interests
 - add in link to resume
