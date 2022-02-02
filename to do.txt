@@ -1,0 +1,4 @@
+- fill out my work
+- fill out my interests
+- add in link to resume
+- center the intro text vertically the proper way (i.e. so that it stays centered dynamically)
